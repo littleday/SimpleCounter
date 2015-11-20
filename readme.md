@@ -26,9 +26,11 @@ In the command line, please run the following command to start the Springboot ap
 > java -jar SimpleCounter-0.1.0.jar
 
 Then visit in any browser:
-> http://localhost:8080/hello
-> http://localhost:8080/twilio
-> http://localhost:8080/count
+```
+http://localhost:8080/hello
+http://localhost:8080/twilio
+http://localhost:8080/count
+```
 
 When you visit /count api, the page will shows the total number of counts
 
